@@ -16,13 +16,13 @@
 
 <h2 align= "center">Equation Slover Flow Diagram</h2>
 
-<img src="./Image/Diagrammatic Approch for the workflow of Equation sloving methodology.png" alt="Proposed model" width="100%" height="350px"/>
+<img src="./Image/Diagrammatic Approch for the workflow of Equation sloving methodology.png" alt="Diagrammatic Approch for the workflow of Equation sloving methodology" width="100%" height="350px"/>
 
 > _Diagrammatic Approch for the workflow of Equation sloving methodology_
 
 <h2 align= "center"> Flow Diagram of purposed solution:
 </h2>
-<img src="./Image/Diagrammatic Approch for the workflow of proposed methodology.png" alt="Proposed model" width="100%" height="350px"/>
+<img src="./Image/Diagrammatic Approch for the workflow of proposed methodology.png" alt="iagrammatic Approch for the workflow of proposed methodology" width="100%" height="350px"/>
 
 > _Diagrammatic Approch for the workflow of proposed methodology_
 
@@ -50,7 +50,7 @@
 > > - <p align="justify"> The 2 types of equations are distinguished by checking if the equation contains ‘=‘. If the equation contains ‘=‘, it is interpreted as the 2nd type, otherwise it is interpreted as the 1st type.</p>
 
 <h2 align= "center">Result</h2>
- <img src="./Image/result.png" alt="Proposed model" width="100%" height="350px"/>
+ <img src="./Image/result.png" alt="Result" width="100%" height="350px"/>
 
 ---
 
